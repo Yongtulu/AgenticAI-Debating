@@ -8,9 +8,9 @@ Built with **CrewAI**, **FastAPI**, and **Ollama** (fully local, no API keys req
 
 ## Screenshot
 
-![AI Quarrel Arena](debate.png)
+![AI Quarrel Arena](debate2.png)
 
-*Three local LLMs going at it: GLM4-9B (left) vs Qwen3.5-9B (right), with Gemma4-E4B as the judge (bottom). Topic: "Only socialism can save China."*
+*Three local LLMs going at it: GLM4-9B (left) vs Qwen3.5-9B (right), with Gemma4-E4B as the judge (bottom). Topic: "AI promotes social progress and economic development." The full 7-round fight is visible, ending with the judge's casual verdict.*
 
 ---
 
